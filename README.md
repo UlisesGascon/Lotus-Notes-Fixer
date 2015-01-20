@@ -11,5 +11,5 @@ in cmd type:
 
 python savemyday.py
 
-* be sure that you have python 2.7.xx in you system.
+* Check that you have python 2.7.xx in you system.
 
