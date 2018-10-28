@@ -1,3 +1,5 @@
+### :warning: WARNING: this repo is not maintained anymore
+
 # Lotus-Notes-Fixer
 This script will fix your notes.ini file
 
